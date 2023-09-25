@@ -15,6 +15,7 @@
   * models : 각 상권 별 최종 모델의 바이너리 파일
 * models_gol.py ; 골목상권 모델
 * models_ngol.py : 비골목상권 모델
-
+* Geopandas_230906.ipynb : 앱 내 지도 시각화
+* map.html : 시각화 저장 파일
 
 
