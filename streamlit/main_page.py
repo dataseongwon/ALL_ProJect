@@ -3,13 +3,13 @@ import joblib
 import numpy as np
 import pandas as pd
 # 모델 불러오기
-model1 = joblib.load("models/gm_model11.pkl")
+model1 = joblib.load("models/gm_model.pkl")
 model2 = joblib.load("models/ngm_model.pkl")
 
 # 데이터 프레임 불러오기
 df = pd.read_csv('data/전체_수정_streamlit용.csv')
-df1 = pd.read_csv('data/골목_utf.csv')
-df2 = pd.read_csv('data/비골목_utf.csv')
+df1 = pd.read_csv('data/골목_streamlit용.csv')
+df2 = pd.read_csv('data/비골목_streamlit용.csv')
 
 # side bar 
 with st.sidebar:
