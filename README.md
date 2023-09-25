@@ -2,7 +2,8 @@
 
 > 강남구 상권 내 편의점의 예상 매출액을 구하고 이를 Streamlit으로 시각화하는 프로젝트입니다.
 
-​	
+​## 서비스링크
+https://prectionofconveniencestore.streamlit.app/
 
 ### description
 
