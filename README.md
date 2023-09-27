@@ -20,6 +20,8 @@
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
+![Geopandas](https://img.shields.io/badge/Geopandas-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+
 
 
 - Language : Python 3.11.5
