@@ -175,3 +175,26 @@ pyproj
 > ##### 비골목상권 예측 성능 오류 개선
 > 
 > RMSE 42666 ➡ 33248
+
+<br>
+</br>
+
+## 📦 아키텍쳐
+
+```
+📦ConvenienceStore_Sales_Forecast
+ ┣ 📂code
+ ┃ ┣ 📂crawling
+ ┃ ┣ 📂feature engineering
+ ┃ ┣ 📂modeling
+ ┃ ┣ 📂preprocessing
+ ┣ 📂rawdata
+ ┃ ┣ 📂business_district
+ ┃ ┣ 📂public_transport
+ ┣ 📂streamlit
+ ┃ ┣ 📂__pycache__
+ ┃ ┣ 📂data
+ ┃ ┣ 📂models
+ ┗ ┗ 📂pages
+```
+
