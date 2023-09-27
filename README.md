@@ -2,17 +2,27 @@
 
 > 강남구 상권 내 편의점의 예상 매출액을 구하고 이를 Streamlit으로 시각화하는 프로젝트입니다.
 
-## Requirements
-* language : Python 3.11.5
-* Python library
-  * pandas
-  * numpy
-  * 
-
 ## 서비스 링크​
 * https://procspredictor.streamlit.app/
 
-### description
+## Requirements
+* language : Python 3.11.5
+* Python library
+  * streamlit == 1.24.1
+  * pandas == 2.0.3
+  * numpy == 1.25.2
+  * matplotlib == 3.7.2
+  * seaborn == 0.12.2
+  * plotly == 5.9.0
+  * scikit-learn == 1.3.0
+  * lightgbm == 1.2.0
+  * shapley
+  * streamlit_option_menu
+  * folium
+  * polygon
+  * pyproj
+
+### Architecture
 
 * data : 필요데이터
   * 골목_model용.csv : 골목상권 최종 train data
