@@ -7,21 +7,21 @@
 
 ## Requirements
 * language : Python 3.11.5
-* Python library\
+* Python library
   ```
-  * streamlit == 1.24.1
-  * pandas == 2.0.3
-  * numpy == 1.25.2
-  * matplotlib == 3.7.2
-  * seaborn == 0.12.2
-  * plotly == 5.9.0
-  * scikit-learn == 1.3.0
-  * lightgbm == 1.2.0
-  * shapley
-  * streamlit_option_menu
-  * folium
-  * polygon
-  * pyproj
+  streamlit == 1.24.1
+  pandas == 2.0.3
+  numpy == 1.25.2
+  matplotlib == 3.7.2
+  seaborn == 0.12.2
+  plotly == 5.9.0
+  scikit-learn == 1.3.0
+  lightgbm == 1.2.0
+  shapley
+  streamlit_option_menu
+  folium
+  polygon
+  pyproj
   ```
 
 
