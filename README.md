@@ -22,28 +22,6 @@
 
 
 
-- Language : Python 3.11.5
-
-- Python Library
-
-```
-numpy==1.25.2
-pandas==2.0.3
-matplotlib==3.7.2
-seaborn==0.12.2
-plotly==5.9.0
-scikit-learn==1.3.0
-streamlit==1.24.1
-lightgbm==3.3.5
-joblib==1.2.0
-shapley
-streamlit_option_menu
-folium
-polygon
-Shapely
-pyproj
-```
-
 <br>
 </br>
 
@@ -51,6 +29,9 @@ pyproj
 - 전체 프로젝트 파이프라인 생성
 - EDA 및 데이터 전처리
 - 모델 성능개선 과정 구현 및 개선
+
+<br>
+</br>
 
 ## 💡 프로젝트 결과
 
